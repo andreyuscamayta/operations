@@ -125,7 +125,7 @@ Para cada linha de entrada imprima dois floats com um decimal em uma linha denot
 ### Sample Output
 ```
 2.0 6.0
-64.0 16.0
+8.7 16.0
 
 ```
 ## Exercicio 5: Converter em Maiuscula
