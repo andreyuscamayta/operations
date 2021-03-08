@@ -18,7 +18,7 @@ Arquivo a editar e modificar `ex1.c`
 Hashmat é um bravo guerreiro que com seu grupo de jovens soldados se move de um lugar para outro para lutar contra seus oponentes. Antes de lutar, ele apenas calcula uma coisa, `a diferença entre seu número de soldado e o número de soldado do oponente`. A partir dessa diferença, ele decide se luta ou não. O número de soldado de Hashmat nunca é maior do que seu oponente.
 
 ### Input
-A primeira linha do arquivo de entrada é um inteiro **t** que denota quantos conjuntos de entradas existem. Cada uma das próximas **t** linhas contém `dois números em cada linha`. Esses dois números em cada linha denotam o número de soldados no exército de Hashmat e no exército de seu oponente ou vice-versa. Os números de entrada não são maiores que 232.
+A primeira linha do arquivo de entrada é um inteiro **t** que denota quantos conjuntos de entradas existem. Cada uma das próximas **t** linhas contém `dois números em cada linha`. Esses dois números em cada linha denotam, primeiro o número de soldados no exército de seu oponente e em segundo lugar o número de soldados no exército de Hashmat.
 
 ### Output
 
