@@ -1,6 +1,15 @@
 # Pratica de Operadores 
 Complete os seguintes códigos. Lembre-se de que os códigos não são necessariamente iguais aos originais.
 
+### Como executar o código
+Altere o arquivo `.replit`alterando o nome do arquivo que quer compilar e executar:
+
+```
+language = "c"
+run = "rm *.o;gcc ex1.c -o ex.o;./ex.o"
+``` 
+Clique no botão `run`, que agora irá compilar e executar o arquivo **ex1.c**.
+
 ## Exercicio 1 : Hashmat, o bravo guerreiro
 Arquivo a editar e modificar `ex1.c`
 
@@ -103,7 +112,7 @@ Uma turma da facultade resolveu medir um conjunto de tabuas que estavam abanadas
 A primeira linha do arquivo de entrada é um inteiro **t** que denota número de casos de teste. Cada caso de teste contém dois flotantes em cada linha. Esses dois valores denotam o valor de **a** e **b**. 
 
 ### Output
-Para cada linha de entrada imprima dois floats em uma linha denotando primeiro a area e segundo o perimetro.
+Para cada linha de entrada imprima dois floats com um decimal em uma linha denotando primeiro a area e segundo o perimetro.
 
 ### Sample Input
 ```
@@ -117,5 +126,36 @@ Para cada linha de entrada imprima dois floats em uma linha denotando primeiro a
 ```
 2.0 6.0
 64.0 16.0
+
+```
+## Exercicio 5: Converter em Maiuscula
+Arquivo a editar e modificar `ex5.c`
+
+### Descrição
+As letras do abecedario tem duas representacoes, que se conhecem de maiusculas e minisculas.
+
+Guilherme, precisa achar um jeito para poder converter uma lera de minuscula em maiuscula. 
+
+[dica aqui](https://en.wikipedia.org/wiki/ASCII)
+
+
+### Input
+A primeira linha do arquivo de entrada é um inteiro **t** que denota número de casos de teste. Cada caso de teste contém um caracter em cada linha. 
+
+### Output
+Para cada linha de entrada imprima um caracter em uma linha denotando o mesmo caracter em Maiuscula.
+
+### Sample Input
+```
+2
+a
+c
+
+```
+
+### Sample Output
+```
+A
+C
 
 ```
