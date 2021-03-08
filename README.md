@@ -38,7 +38,7 @@ Para cada linha de entrada, imprima a `diferença de número de soldados entre o
 4
 100
 ```
-[arquivo original UVA](https://onlinejudge.org/components/com_onlinejudge/images/button_pdf.png)
+[arquivo original UVA](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=996)
 
 ## Exercicio 2 : Resposta Automática
 Arquivo a editar e modificar `ex2.c`
