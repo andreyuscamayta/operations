@@ -140,34 +140,3 @@ Para cada linha de entrada imprima dois floats com um decimal em uma linha denot
 8.7 16.0
 
 ```
-## Exercicio 7: Converter em Maiuscula
-Arquivo a editar e modificar `ex7.py`
-
-### Descrição
-As letras do abecedario tem duas representacoes, que se conhecem de maiusculas e minisculas.
-
-Guilherme, precisa achar um jeito para poder converter uma lera de minuscula em maiuscula. 
-
-[dica aqui](https://en.wikipedia.org/wiki/ASCII)
-
-
-### Input
-A primeira linha do arquivo de entrada é um inteiro **t** que denota número de casos de teste. Cada caso de teste contém um caracter em cada linha. 
-
-### Output
-Para cada linha de entrada imprima um caracter em uma linha denotando o mesmo caracter em Maiuscula.
-
-### Sample Input
-```
-2
-a
-c
-
-```
-
-### Sample Output
-```
-A
-C
-
-```
