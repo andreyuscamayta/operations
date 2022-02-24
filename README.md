@@ -1,17 +1,29 @@
-# Pratica de Operadores 
+# Pratica de Operadores e Input/Output
 Complete os seguintes códigos. Lembre-se de que os códigos não são necessariamente iguais aos originais.
 
 ### Como executar o código
-Altere o arquivo `.replit`alterando o nome do arquivo que quer compilar e executar:
-
+Rodar o seguinte codigo num terminal
 ```
-language = "c"
-run = "rm *.o;gcc ex1.c -o ex.o;./ex.o"
+py ex1.py
 ``` 
-Clique no botão `run`, que agora irá compilar e executar o arquivo **ex1.c**.
 
-## Exercicio 1 : Hashmat, o bravo guerreiro
-Arquivo a editar e modificar `ex1.c`
+## Exercicio 1: Criar Scratch à partir do código
+Apos finalizar os exercicios, escolher algum dos codigos do Exercicio 3 ate 8, e criar uma versao dele no sistema web [SCRATCH](https://scratch.mit.edu) para programação visual
+O código-fonte `ex1.py` devera printar o link para o seu projeto scratch como por exemplo:
+
+> #SCRATCH#`XXXXXXX`
+
+Onde:
+`XXXXXXX` seria o url do seu projeto
+
+## Exercicio 2: Criar codigo a partir do scratch
+Os **bots** são robôs que desempenham tarefas automatizadas pré-definidas, amplamente utilizados em uma série de plataformas e serviços online.
+Foi fornecido um [projeto](https://scratch.mit.edu/projects/494279233) no sistema web [SCRATCH](https://scratch.mit.edu), que simula um *bot* de um hospital.
+
+O desafio é visualizar, testar e analisar o [projeto](https://scratch.mit.edu/projects/494279233) para depois simular na linguagem de programação `Python`. Para fazer isso, você precisa fazer alterações no arquivo `ex2.py`.
+
+## Exercicio 3 : Hashmat, o bravo guerreiro
+Arquivo a editar e modificar `ex3.py`
 
 ### Descrição
 
@@ -40,8 +52,8 @@ Para cada linha de entrada, imprima a `diferença de número de soldados entre o
 ```
 [arquivo original UVA](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=996)
 
-## Exercicio 2 : Resposta Automática
-Arquivo a editar e modificar `ex2.c`
+## Exercicio 4 : Resposta Automática
+Arquivo a editar e modificar `ex4.py`
 
 ### Descrição
 No mês passado, Alice despreocupadamente inseriu seu nome em um sorteio de um *Tapmaster 4000*. Ao verificar seu e-mail hoje, ela encontrou uma carta que dizia:
@@ -75,8 +87,8 @@ Para cada caso de teste, produza a resposta para a seguinte pergunta do teste de
 ```
 [arquivo original UVA](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2542)
 
-## Exercicio 3 : Voltar para a Física do Ensino Médio
-Arquivo a editar e modificar `ex3.c`
+## Exercicio 5 : Voltar para a Física do Ensino Médio
+Arquivo a editar e modificar `ex5.py`
 
 ### Descrição
 Uma partícula tem velocidade e aceleração iniciais. Se sua velocidade após certo tempo for **v**, então `qual será seu deslocamento no dobro desse tempo?`
@@ -101,8 +113,8 @@ Para cada linha de entrada imprima um único inteiro em uma linha denotando `o d
 ```
 [arquivo original UVA](https://onlinejudge.org/external/100/p10071.pdf)
 
-## Exercicio 4: Medindo tabuas
-Arquivo a editar e modificar `ex4.c`
+## Exercicio 6: Medindo tabuas
+Arquivo a editar e modificar `ex6.py`
 
 ### Descrição
 Uma turma da facultade resolveu medir um conjunto de tabuas que estavam abanadas numa sala. Para isso, os estudantes registravam as medidas de cada lado da tabua. Maria que tinha chegado tarde, por castigo, teve que calcular tanto o perimetro quanto a area de cada uma das tabuas. Você pode ajudar Maria com essa tarefa?
@@ -128,8 +140,8 @@ Para cada linha de entrada imprima dois floats com um decimal em uma linha denot
 8.7 16.0
 
 ```
-## Exercicio 5: Converter em Maiuscula
-Arquivo a editar e modificar `ex5.c`
+## Exercicio 7: Converter em Maiuscula
+Arquivo a editar e modificar `ex7.py`
 
 ### Descrição
 As letras do abecedario tem duas representacoes, que se conhecem de maiusculas e minisculas.
